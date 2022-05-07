@@ -1,1 +1,1 @@
-![infraform](https://raw.githubusercontent.com/infraform/.github/main/infraform.jpg)
+![infraform](infraform.jpg)
