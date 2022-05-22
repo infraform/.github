@@ -1,7 +1,7 @@
 ![infraform](https://raw.githubusercontent.com/infraform/.github/main/infraform.jpg)
+![saber](/saber.gif)
 
 <div align="center">
 
-### Join the [Infraform Open Source](https://github.com/infraform/contribute/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community) GitHub Organization to get access to the latest Infraform releases, contribute to the project and get involved in the community.
-
+### [Join Infraform Open Source GitHub Organization](https://github.com/infraform/contribute/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+community) to get access to the latest Infraform releases, to contribute to projects and get involved in the community.
 </div>
