@@ -1,5 +1,5 @@
 ![infraform](https://raw.githubusercontent.com/infraform/.github/main/infraform.jpg)
-![saber](/saber.gif)
+![saber](https://raw.githubusercontent.com/infraform/.github/main/saber.gif)
 
 <div align="center">
 
